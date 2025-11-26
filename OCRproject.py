@@ -11,7 +11,7 @@ start_time = time.time()
 # ----- User Inputs -----
 image_path = "thai_text.gif"   # your input image
 output_text_file = ""
-translated_image_path = "/Users/heinpyaesoneaung/Desktop/translated_img.jpg"
+translated_image_path = ""
 
 # ----- Read Image -----
 image = cv2.imread(image_path)
