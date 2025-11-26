@@ -1,0 +1,1 @@
+This project performs OCR (Optical Character Recognition) on images containing text (including Thai and English) and translates the detected text into English. The translated text is both saved to a text file and overlaid on the image for visualization.
