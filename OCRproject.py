@@ -10,7 +10,7 @@ start_time = time.time()
 
 # ----- User Inputs -----
 image_path = "thai_text.gif"   # your input image
-output_text_file = "/Users/heinpyaesoneaung/Desktop/output.txt"
+output_text_file = ""
 translated_image_path = "/Users/heinpyaesoneaung/Desktop/translated_img.jpg"
 
 # ----- Read Image -----
